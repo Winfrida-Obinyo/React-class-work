@@ -1,0 +1,13 @@
+h1{
+    color: green;
+}
+ul{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    text-align: center; 
+    justify-content: center; 
+    text-decoration: none;
+    color: brown;
+
+    
+}

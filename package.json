@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "reject": "react-scripts reject"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +34,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+ 
   }
 }
